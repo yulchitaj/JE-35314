@@ -1,7 +1,7 @@
 type: update
 name: nodeGroupTest
 onInstall:
-  log: ${settings.nodeGroup} is an initialized,
-  ${env.appid},
-  ${placeholders}
+   log:  ${settings.nodeGroup} is an initialized
+    ${env.appid}
+    ${placeholders}
   
